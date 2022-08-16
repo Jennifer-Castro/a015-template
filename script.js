@@ -27,14 +27,12 @@ while(usuario !== admin.toUpperCase()){
 
 // pratica em aula - exercicio 2 -- for para imprimir a  tabuada do 2
 
-// exercício 2
-
 let num
 for (let i = 0; i < num; i++) {
      num = i*2 
     console.log(num)}
 
-// exercicio 3
+// // pratica em aula - exercicio 3
 const arrayStrings = ['banana', 'uva', 'goiaba']
 for (let i = 0; i < arrayStrings.length; i++) {
         console.log(arrayStrings[i].toUpperCase())
